@@ -1,0 +1,20 @@
+<Configuration>
+    <Add OfficeClientEdition="32" Channel="PerpetualVL2019" AllowCdnFallback="True">
+        <Product ID="ProPlus2019Volume">
+            <Language ID="MatchInstalled" />
+            <Language ID="MatchOS" Fallback="en-us" />
+            <ExcludeApp ID="Publisher" />
+            <ExcludeApp ID="OneDrive" />
+            <ExcludeApp ID="OneNote" />
+            <ExcludeApp ID="Outlook" />
+        </Product>
+        <Product ID="ProofingTools">
+            <Language ID="it-it" />
+            <Language ID="en-us" />
+        </Product>
+    </Add>
+    <Updates Enabled="FALSE" />
+    <Logging Level="Standard" Path="%temp%" />
+    <RemoveMSI All="TRUE"/>
+    <Display Level="None" AcceptEULA="TRUE" />  
+</Configuration>
