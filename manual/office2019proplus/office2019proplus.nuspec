@@ -6,7 +6,7 @@
     <version>2019.1808</version>
     <packageSourceUrl>https://github.com/ftarascio/chocolatey-packages</packageSourceUrl>
     <owners>Fabio Tarascio</owners>
-    <title>office2019proplus</title>
+    <title>Microsoft Office 2019 ProPlus</title>
     <authors>Microsoft</authors>
     <projectUrl>http://office.microsoft.com/</projectUrl>
     <iconUrl>https://github.com/ftarascio/chocolatey-packages/blob/master/icons/Office2019.png</iconUrl>
@@ -17,7 +17,7 @@
     <mailingListUrl>https://answers.microsoft.com/it-it</mailingListUrl>
     <bugTrackerUrl>https://support.office.com/en-us/home/contact?contactUsExperienceEntryPointAssetId=S.HP.Main</bugTrackerUrl>
     <tags>Office2019ProPlus Office MicrosoftOffice MSOffice</tags>
-    <summary>Office 2019 ProPlus</summary>
+    <summary>Office 2019 Professional Plus</summary>
     <description>
     ## Package parameters
 * `/ConfigPath` - (optional) Full path to custom install configuration.
