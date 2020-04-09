@@ -1,5 +1,3 @@
-$ErrorActionPreference = 'Stop'
-
 $script                     = $MyInvocation.MyCommand.Definition
 $packageName                = 'Office2019ProPlus'
 $configFile                 = Join-Path $(Split-Path -parent $script) 'configuration.xml'
